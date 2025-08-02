@@ -1,0 +1,1 @@
+Watching videos of chai and code for preparing backend
